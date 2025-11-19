@@ -2,9 +2,9 @@
 
 
 Esta aplicación es para **Android** y funciona grabando ya sea:
-	- Audio
-	-	Video
-	-	o Imágenes (Fotos)
+- Data Science
+- Data Analytics
+- Machine Learning
 
 ## Integrantes de mi equipo:
 	1.	Derick
